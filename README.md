@@ -19,4 +19,4 @@ This showcases my technical skills, internship projects at Cognifyz Technologies
 - Bootstrap (optional)
 - Git & GitHub
 
-🔗 [Visit Live Site](https://isha-rani05.github.io/portfolio/)
+🔗 [Visit Live Site](https://isha-rani05.github.io/isha-portfolio/)
